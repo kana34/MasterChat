@@ -1,0 +1,12 @@
+syntax: '[&4{prefix} - {player}&f] - '
+annonceDelay: 10
+annonce:
+- 'Pensez à visiter notre site wew http://www.2k16.ovh'
+- 'Tapez /rules pour voir toutes les possibilitées de jeu sur le serveur'
+messageJoin:
+- 'Salut {player}'
+- 'Votre solde est de {balance}'
+messageFirstJoin:
+- 'Salut {player}'
+- 'Bienvenue sur le serveur'
+blacklist: {}

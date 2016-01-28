@@ -1,0 +1,10 @@
+name: MasterChat
+main: kana.MasterChat.MasterChat
+author: kana34
+website: http://www.2k16.ovh
+description: Permet de controler le chat
+version: 0.1
+depends: [Vault]
+commands:
+    mc:
+        description: Tapez /mc help.
